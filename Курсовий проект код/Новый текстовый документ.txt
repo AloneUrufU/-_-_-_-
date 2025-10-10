@@ -1,0 +1,4 @@
+javac -cp ".;sqlite-jdbc-3.42.0.0.jar" SQLiteCreateTable.java
+java -cp ".;sqlite-jdbc-3.42.0.0.jar" SQLiteCreateTable
+
+запуск програмы
