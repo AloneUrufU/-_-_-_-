@@ -1,0 +1,14 @@
+{
+"version": "0.2.0",
+"configurations": [
+    {
+    "type": "java",
+    "name": "Debug SQLiteCreateTable",
+    "request": "launch",
+    "mainClass": "SQLiteCreateTable",
+    "projectName": "MyJavaProject",
+    "console": "integratedTerminal",
+    "vmArgs": "-Dfile.encoding=UTF-32"
+    }
+]
+}
